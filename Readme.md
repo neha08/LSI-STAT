@@ -9,6 +9,11 @@
 
 <span style="text-align: justify"> To demonstrate the utility and functionalities of the developed tool and to provide for a good understanding of the value that it provides, two case studies have been done (on health and sales data). </span> <br>
 
+### Technologies
+<span style="text-align: justify"> Apache Web Server, HTML, CSS, JavaScript, PHP, JQuery, Highcharts, python libraries (shapely, gdal), org2ogr </span>
+
+
+
 ## User Interface of LSI-STAT
 ![User Interface of LSI-STAT](/images/LSI_STAT_User-Interface.png "User Interface of LSI-STAT") 
 
