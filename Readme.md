@@ -9,16 +9,49 @@
 
 <span style="text-align: justify"> To demonstrate the utility and functionalities of the developed tool and to provide for a good understanding of the value that it provides, two case studies have been done (on health and sales data). </span> <br>
 
-![User Interface of LSI-STAT](/images/LSI_STAT_User-Interface.png "User Interface of LSI-STAT")
+## User Interface of LSI-STAT
+![User Interface of LSI-STAT](/images/LSI_STAT_User-Interface.png "User Interface of LSI-STAT") 
 
+
+
+
+
+## System Architecture Overview
 ![System Architecture Overview](/images/SystemArchitecture_overview.png "System Architecture Overview")
 
+
+
+
+
+## System Components
 ![System Components](/images/SystemComponents.png "System Components")
 
+
+
+
+
+
+## WorkingFlow
 ![WorkingFlow](/images/WorkingFlow.png "WorkingFlow")
 
+
+
+
+
+## changeInZoomLevel
 ![changeInZoomLevel](/images/changeInZoomLevel.png "changeInZoomLevel")
 
+
+
+
+
+
+## Results
 ![Result1](/images/Result1.png "Result")
+
+
+
+
+
 
 ![Result2](/images/Result2.png "Result")
